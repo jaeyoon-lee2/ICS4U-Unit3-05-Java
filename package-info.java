@@ -1,5 +1,5 @@
 /**
-* Magicsquare program Generates all possible 3 by 3 magic squares
+* Magicsquare program Generates all possible 3 by 3 magic squares.
 *
 * @author  Nicholas Brean & Mr. Coxall & Jay Lee
 * @version 1.0
